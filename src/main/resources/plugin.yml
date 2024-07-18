@@ -1,0 +1,16 @@
+name: PoisonChatUtils
+version: '1.0'
+main: me.itzerpandx.ChatUtils
+api-version: 1.16
+load: STARTUP
+loadbefore: [EssentialsX]
+authors: [ItzErpandX]
+description: A simple chat utils plugin for poisonbox
+website: https://discord.gg/poisonbox
+commands:
+  clearchat:
+    aliases: cc
+  mutechat:
+    aliases: mc
+  chatutils:
+    aliases: cu

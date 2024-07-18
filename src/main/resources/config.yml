@@ -1,0 +1,17 @@
+shouldShowEmoji: true
+emojis:
+  - "<3, &c❤&r"
+
+blacklistMessage: '&c&lYou are not allowed to say %word%'
+blacklist:
+  - fuck
+
+blacklistAdMessage: '&c&lYou are not allowed to advertise %word%'
+disabledAd:
+  - hypixel
+
+clearChat:
+  format: '%player% cleared the chat'
+
+muteChat:
+  isChatNotMuted: false
